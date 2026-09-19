@@ -1,0 +1,8 @@
+ping google.com -c5
+m ping
+man piong
+curl ifconfig.me
+man ping
+nslookup google.com
+tracepath google.com
+ss -tuln
